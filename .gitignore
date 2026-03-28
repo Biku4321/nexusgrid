@@ -1,0 +1,18 @@
+# Environment
+.env
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker volumes (local only)
+postgres_data/
+redis_data/
+minio_data/
